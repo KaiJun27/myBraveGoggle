@@ -1,7 +1,7 @@
 ! name: myCustomGoggles
 ! description: Removes personally determined useless sites and boosts more useful sites
 ! public: false
-! author:
+! author: KaiJun27
 
 $discard,site=www.geeksforgeeks.org
 $discard,site=www.w3schools.com
